@@ -1,0 +1,54 @@
+.img__logo {
+  max-width: 50px;
+  padding-right: .5rem;
+}
+
+.nav__items {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.navbar-brand {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.contenido {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.contenido::after {
+  content: "PLP";
+}
+
+.lista__items {
+  font-size: 1.2rem;
+}
+
+.item__redes {
+  text-decoration: none;
+  color: #000;
+}
+
+.item__redes:hover {
+  text-decoration: none;
+}
+
+@media screen and (min-width: 600px) {
+  .img__logo {
+    max-width: 70px;
+  }
+  .contenido::after {
+    content: "Partido Libertario Peruano";
+  }
+}
+/*# sourceMappingURL=header.css.map */

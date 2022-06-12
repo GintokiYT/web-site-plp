@@ -1,0 +1,24 @@
+.iframe__video{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo__video{
+    font-size: 2.5rem;
+    font-weight: 600;
+    -webkit-text-stroke: 2px black;
+    color: white;
+}
+
+.contenedor__iframe{
+    margin: 0;
+}
+
+iframe{
+    display: block;
+    border: none;
+    margin: 0 auto;
+    padding: 0 .5rem;
+}

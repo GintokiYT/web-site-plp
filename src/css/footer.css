@@ -1,0 +1,54 @@
+.footer {
+  background-color: #0c1b3c;
+}
+
+.container {
+  padding: 0;
+}
+
+.contacto {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #1a50a9;
+  padding: 1rem;
+  margin: 1rem;
+  color: #fff;
+}
+
+.contacto p {
+  margin: 0;
+  padding: 0;
+  color: #0DC143;
+}
+
+.redes__sociales {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.redes__sociales a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.redes__sociales a:hover {
+  color: #f4dc00;
+}
+/*# sourceMappingURL=footer.css.map */

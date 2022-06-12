@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB,CAAA;EAChB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAE,KAAK;CAUb;;AAbD,AAKI,oBALgB,CAKhB,MAAM,CAAA;EACF,WAAW,EAAE,GAAG;CACnB;;AAPL,AASI,oBATgB,CAShB,CAAC,CAAA;EACG,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,IAAI;CACd;;AAGL,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAC/B,AAAA,oBAAoB,CAAA;IAChB,cAAc,EAAE,GAAG;IACnB,eAAe,EAAE,MAAM;GAC1B",
+    "sources": [
+        "../sass/botones.scss"
+    ],
+    "names": [],
+    "file": "botones.css"
+}

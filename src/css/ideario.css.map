@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAA;EACZ,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,GAAG;EAChB,mBAAmB,EAAE,SAAS;EAC9B,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../sass/ideario.scss"
+    ],
+    "names": [],
+    "file": "ideario.css"
+}

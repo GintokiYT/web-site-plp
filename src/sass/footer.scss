@@ -1,0 +1,41 @@
+.footer{
+    background-color: #0c1b3c;
+}
+
+.container{
+    padding: 0;
+}
+
+.contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a50a9;
+    padding: 1rem;
+    margin: 1rem;
+    color: #fff;
+
+    p{
+        margin: 0;
+        padding: 0;
+
+        color: #0DC143;
+    }
+}
+
+.redes__sociales{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+
+    a{
+        color: #fff;
+        text-decoration: none;
+        font-size: 1.5rem;
+
+        &:hover{
+            color: #f4dc00;
+        }
+    }
+}

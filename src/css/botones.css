@@ -1,0 +1,32 @@
+.contenedor__botones {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: .5rem;
+}
+
+.contenedor__botones button {
+  font-weight: 600;
+}
+
+.contenedor__botones a {
+  text-decoration: none;
+  color: #000;
+}
+
+@media screen and (min-width: 768px) {
+  .contenedor__botones {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+/*# sourceMappingURL=botones.css.map */
